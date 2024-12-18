@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Diamond Open Access Journal for Planetary Research'
+project = 'Diamond Open Access Journal for Planetary Research initiative'
 copyright = '2025'
-author = 'the DOAJ for Planetary Research group'
+author = 'DOAJ for Planetary Research initiative'
 
 # The full version, including alpha/beta/rc tags
 # release = '0.1'
