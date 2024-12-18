@@ -1,5 +1,5 @@
-Diamond Open Access Journal for Planetary Research
-==================================================
+Diamond Open Access Journal for Planetary Research Initiative
+=============================================================
 
 
 Welcome to the Diamond Open Access Journal for Planetary Research initiative. This is a pre-website for the journal.
