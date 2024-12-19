@@ -3,7 +3,7 @@ Aims and Scope
 
 **(DRAFT TEXT)**
 
-**Journal-name** is devoted to publishing original research in the field of planetary science. 
+**{Journal-name}** is devoted to publishing original research in the field of planetary science. 
 We welcome work that is based on analyses of data derived from spacecraft and Earth-based observatories, laboratory measurements of extraterrestrial materials,
 theoretical and numerical modeling of planetary phenomena, and analyses of terrestrial analog sites and materials.
 Studies of other planetary systems and exoplanets are welcome when the investigation can be supported by experimental data or observations,
