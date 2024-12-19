@@ -16,6 +16,7 @@ There is a monthly online meeting, the (links to the) recordings of which can be
    about
    aimsandscope
    principles
+   resources
    meetings
    mattermostchannel
     
