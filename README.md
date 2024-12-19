@@ -9,7 +9,7 @@ In the docs folder of this repository are the .rst (reStructured Text) files and
 sphinx-build -b html docs docs_html
 ```
 
-The theme is **furo** and the **sphinxcontrib.youtube** needs to be installed with:
+The theme is **furo** and both it and the **sphinxcontrib.youtube** need to be installed with before compiling:
 
 ```
 pip install furo
