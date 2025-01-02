@@ -13,13 +13,13 @@
 # import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
-
+import datetime
 
 # -- Project information -----------------------------------------------------
 
-project = 'Diamond Open Access Journal for Planetary Research initiative'
-copyright = '2025'
-author = 'DOAJ for Planetary Research initiative'
+project = 'Planetary Research'
+copyright = str(datetime.date.today().year)
+author = 'the Planetary Research initiative contributors'
 
 # The full version, including alpha/beta/rc tags
 # release = '0.1'
@@ -31,7 +31,9 @@ author = 'DOAJ for Planetary Research initiative'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinxcontrib.youtube'
+    'sphinxcontrib.youtube',
+    'sphinx_copybutton',
+    'sphinx_toolbox.collapse',
 ]
 
 
@@ -53,6 +55,9 @@ numfig = True
 # a list of builtin themes.
 #
 html_theme = 'furo'
+html_theme_options = {
+    "announcement": "<em>This is the <b>Planetary Research</b> pre-launch website. The journal is in development and will launch in January 2026.</em>",
+}
 # html_theme_options = {
 #     "stickysidebar": "true",
 #     "description": "The reference documentation for all EMC-EFO software."
@@ -62,5 +67,8 @@ html_theme = 'furo'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
-
-html_last_updated_fmt = '%b %d, %Y, %X'
+html_show_sphinx = False
+html_title = "Planetary Research"
+html_last_updated_fmt = '%b %d, %Y'
+html_copy_source = False
+html_show_sourcelink = False

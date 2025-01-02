@@ -1,5 +1,4 @@
 furo
 sphinxcontrib-youtube
-
-
-
+sphinx-copybutton
+sphinx-toolbox
