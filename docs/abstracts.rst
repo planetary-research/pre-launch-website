@@ -33,6 +33,7 @@ Abstracts and posters
   * Julia Maia - German Aerospace Center, DLR, Berlin, Germany
   * Lucia Mandon - University Grenoble Alpes, CNRS, IPAG, France
   * Katarina Miljković - Curtin University, Perth, Australia
+  * Adam Nawal
   * Rona Oran, Massachusetts Institute of Technology, USA
   * Lu Pan - University of Science and Technology of China, Hefei, China
   * Ryan S. Park - NASA Jet Propulsion Laboratory
