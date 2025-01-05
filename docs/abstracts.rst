@@ -6,7 +6,7 @@ Abstracts and posters
 **Lunar and Planetary Science Conference (2025)**
 
 | Planetary Research --- A diamond open access journal for planetary science
-| :download:`download abstract <../resources/DOAJPlanetaryResearch-LPSC2025-poster.pdf>`
+| :download:`download abstract <../resources/LPSC-2025-Planetary-Research-abstract.pdf>`
 
 .. collapse:: <em>click for authors</em>
 
@@ -23,7 +23,7 @@ Abstracts and posters
   * Linda Elkins-Tanton - Arizona State University, Tempe, AZ, USA
   * Wenzhe Fa - Peking University, Beijing, China
   * Justin Filiberto - ARES, NASA Johnson Space Center, Houston, TX, USA
-  * J. Flahaut - CRPG, CNRS, Université de Lorraine, Vandoeuvre les Nancy, France
+  * Jessica Flahaut - CRPG, CNRS, Université de Lorraine, Vandoeuvre les Nancy, France
   * Alessandro Frigeri - Istituto di Astrofisica e Planetologia Spaziali, INAF,  Rome, Italy
   * Claire Guimond - University of Oxford, UK
   * Y. Güray Hatipoğlu - FIRE Araştırma Eğitim Ltd. Şti., Ankara, Türkiye

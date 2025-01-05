@@ -1,19 +1,28 @@
 # Planetary Research
-The pre-launch website of the planetary science diamond open access journal.
+This is the pre-launch website of the Planetary Research diamond open access journal.
 
-Click [here](https://doaj-planetary-research-initiative.readthedocs.io/en/latest/index.html) to open.
+Click [here](https://planetary-research-journal) to access the website.
 
-In the docs folder of this repository are the .rst (reStructured Text) files and the configuration file for the content. Compile with the Python sphinx module when in the main repository directory using:
+The website content and configure files are located in the `docs` folder. These need to be compiled into a static website using the following command in the top level directory:
 
 ```
 sphinx-build -b html docs docs_html
 ```
 
-The theme is **furo**, which needs to be installed along with  **sphinxcontrib.youtube**, **sphinx-copybutton** and **sphinx-toolbox** before compiling:
+This website makes uses of the theme `furo`, as well as the sphinx plugins `sphinxcontrib.youtube`, `sphinx-copybutton` and `sphinx-toolbox`. Before compiling the static website, these dependencies will need to be installed using either pip
 
 ```
-pip install furo  # or conda install furo
-pip install sphinx-copybutton  # or conda install sphinx-copybutton
-pip install sphinx-toolbox  # or conda install sphinx-toolbox
+pip install furo
+pip install sphinx-copybutton
+pip install sphinx-toolbox
 pip install sphinxcontrib.youtube
+```
+
+or conda
+
+```
+conda install furo
+conda install sphinx-copybutton
+conda install sphinx-toolbox
+pip install sphinxcontrib.youtube  # no conda package available
 ```
