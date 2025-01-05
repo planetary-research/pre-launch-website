@@ -1,0 +1,46 @@
+name: deploy
+
+on:
+  push:
+    branches:
+      - master
+      - main
+  pull_request:
+    branches:
+      - master
+      - main
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Setup Miniconda
+      uses: conda-incubator/setup-miniconda@v3
+      with:
+        python-version: 3.12
+        channels: conda-forge
+        auto-update-conda: true
+        miniconda-version: "latest"
+        activate-environment: static
+
+    - name: Install dependencies and build
+      run: |
+        conda install sphinx
+        pip install -r docs/requirements.txt
+        sphinx-build -b html docs docs_html
+
+    - name: Deploy
+      if: github.event_name != 'pull_request'
+      uses: JamesIves/github-pages-deploy-action@v4
+      with:
+        folder: docs_html
