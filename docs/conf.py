@@ -19,7 +19,7 @@ import datetime
 
 project = 'Planetary Research'
 copyright = str(datetime.date.today().year)
-author = 'the Planetary Research initiative contributors'
+author = 'Planetary Research'
 
 # The full version, including alpha/beta/rc tags
 # release = '0.1'
@@ -54,9 +54,32 @@ numfig = True
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'furo'
+
+html_css_files = [
+    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/fontawesome.min.css",
+    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/solid.min.css",
+    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/brands.min.css",
+]
+
+html_theme = 'furo'  # 'sphinx_book_theme'
 html_theme_options = {
     "announcement": "<em>This is the <b>Planetary Research</b> pre-launch website. The journal is in development and will launch in January 2026.</em>",
+    "repository_branch": "master",
+    "repository_url": "https://github.com/planetary-research-journal/pre-launch-website",
+    "use_repository_button": True,
+    "use_sidenotes": False,
+    "use_edit_page_button": False,
+    "use_source_button": False,
+    "use_issues_button": False,
+    "use_download_button": False,
+    "footer_icons": [
+        {
+            "name": "GitHub",
+            "url": "https://github.com/planetary-research-journal",
+            "html": "",
+            "class": "fa-brands fa-solid fa-github fa-lg",
+        },
+    ],
 }
 # html_theme_options = {
 #     "stickysidebar": "true",

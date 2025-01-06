@@ -35,7 +35,7 @@ jobs:
 
     - name: Install dependencies and build
       run: |
-        conda install -q sphinx
+        conda install -q sphinx pip
         pip install -r docs/requirements.txt
         sphinx-build -b html docs docs_html
 

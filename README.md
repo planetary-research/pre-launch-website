@@ -3,7 +3,7 @@ This is the pre-launch website of the Planetary Research diamond open access jou
 
 Click [here](https://planetary-research-journal) to access the website.
 
-The website content and configure files are located in the `docs` folder. These need to be compiled into a static website using the following command in the top level directory:
+The website content and configure files are located in the `docs` folder. Pushing changes to this repo will automatically rebuild and deploy the website using github action. To compile a static website for testing on you machine, using the following command in the top level directory:
 
 ```
 sphinx-build -b html docs docs_html

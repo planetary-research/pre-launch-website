@@ -2,3 +2,4 @@ furo
 sphinxcontrib-youtube
 sphinx-copybutton
 sphinx-toolbox
+sphinx_book_theme
