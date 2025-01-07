@@ -37,6 +37,7 @@ Abstracts & posters
   * Lucia Mandon - University Grenoble Alpes, CNRS, IPAG, France
   * Mélissa Martinot - CRPG, CNRS/Université de Lorraine, Vandoeuvre les Nancy, France
   * Katarina Miljković - Curtin University, Perth, Australia
+  * Laurent Montesi - University of Maryland, USA
   * Adam Nawal
   * Rona Oran, Massachusetts Institute of Technology, USA
   * Lu Pan - University of Science and Technology of China, Hefei, China
