@@ -7,6 +7,11 @@
    principles
    governance
    editorial-board
+
+.. toctree::
+   :hidden:
+   :caption: For authors
+
    article-types
    peer-review
 

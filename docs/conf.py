@@ -63,7 +63,7 @@ html_css_files = [
 
 html_theme = 'furo'  # 'sphinx_book_theme'
 html_theme_options = {
-    "announcement": "<em>This is the <b>Planetary Research</b> pre-launch website. The journal is in development and will launch in January 2026.</em>",
+    "announcement": "This is the <b>Planetary Research</b> pre-launch website. The journal is in development and will launch in January 2026.",
     "repository_branch": "master",
     "repository_url": "https://github.com/planetary-research-journal/pre-launch-website",
     "use_repository_button": True,
@@ -80,7 +80,16 @@ html_theme_options = {
             "class": "fa-brands fa-solid fa-github fa-lg",
         },
     ],
+    # "light_css_variables": {
+    #    'color-announcement-background': '#e0c7ff',
+    #    'color-announcement-text': '#222832',
+    #},
+    #"dark_css_variables": {
+    #    'color-announcement-background': '#341a61',
+    #    'color-announcement-text': '#ced6dd',
+    #},
 }
+
 # html_theme_options = {
 #     "stickysidebar": "true",
 #     "description": "The reference documentation for all EMC-EFO software."
