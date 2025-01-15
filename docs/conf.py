@@ -34,6 +34,7 @@ extensions = [
     'sphinxcontrib.youtube',
     'sphinx_copybutton',
     'sphinx_toolbox.collapse',
+    'myst_parser',
 ]
 
 

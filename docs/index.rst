@@ -22,7 +22,7 @@
    forum
    email-list
    meetings
-   abstracts
+   abstracts.md
 
 
 Planetary Research
@@ -42,4 +42,4 @@ The journal will be run entirely by volunteers from the planetary science commun
 
 At the 2025 Lunar and Planetary Science Conference, we will be making an open call for editors, associate editors, and members of the steering committee and media team.
 
-To see who is involved in the initiative, check out our :ref:`LPSC abstract <abstracts>`!
+To see who is involved in the initiative, check out our :ref:`abstracts <abstracts>`!
