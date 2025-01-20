@@ -36,7 +36,10 @@ extensions = [
     'sphinx_toolbox.collapse',
     'myst_parser',
 ]
-
+myst_enable_extensions = [
+    'attrs_block',
+    'colon_fence',
+]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']

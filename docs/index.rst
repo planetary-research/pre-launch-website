@@ -13,7 +13,7 @@
    :caption: For authors
 
    article-types
-   peer-review
+   peer-review.md
 
 .. toctree::
    :hidden:
