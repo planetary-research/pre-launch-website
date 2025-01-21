@@ -2,7 +2,7 @@
    :hidden:
    :caption: About
 
-   about
+   about.md
    scope
    principles
    governance
