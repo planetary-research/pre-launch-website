@@ -6,6 +6,11 @@ Meeting recordings
 Video recordings of our monthly meetings can be found on our
 `YouTube playlist <https://www.youtube.com/playlist?list=PLPXeplhp1d03WmrwwDFMjy5y0S6eiyeFE>`_.
 
+Meeting 3: January 23
+---------------------
+
+.. youtube:: voD9x3TtBRU
+
 
 Meeting 2: December 18
 ----------------------
