@@ -8,6 +8,7 @@ Video recordings of our monthly meetings can be found on our
 
 Meeting 3: January 23 (2025)
 ----------------------------
+:download:`Presentation slides <../resources/planetary-research-#3-jan-22.pdf>`
 
 .. youtube:: voD9x3TtBRU
 
