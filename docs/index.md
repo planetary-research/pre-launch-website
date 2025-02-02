@@ -5,7 +5,7 @@
 about.md
 scope
 principles
-governance
+governance.md
 editorial-board
 ```
 
