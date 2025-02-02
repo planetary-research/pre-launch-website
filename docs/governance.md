@@ -5,9 +5,8 @@ This is a draft of the text that will appear on the journal website. To propose 
 # Governance
 
 The journal is governed by the steering committee of XXXX, which is a non-profit association registered in France. The steering committee is responsible for overseeing all non-editorial functions of the journal, and is responsible for appointing the editor-in-chief and editors of the journal's editorial board. The editorial board retains complete editorial independence from the steering committee.
-## Steering committee
 
-### Members
+## Steering committee members
 
 * Photo, name, position, affiliation, personal web page with contact info
 
