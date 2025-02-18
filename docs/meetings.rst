@@ -6,6 +6,12 @@ Meeting recordings
 Video recordings of our monthly meetings can be found on our
 `YouTube playlist <https://www.youtube.com/playlist?list=PLPXeplhp1d03WmrwwDFMjy5y0S6eiyeFE>`_.
 
+
+Meeting 4: February 18 (2025)
+----------------------------
+:download:`Presentation slides <../resources/planetary-research-#4-feb-18.pdf>`
+
+
 Meeting 3: January 23 (2025)
 ----------------------------
 :download:`Presentation slides <../resources/planetary-research-#3-jan-22.pdf>`
