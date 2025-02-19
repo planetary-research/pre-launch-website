@@ -11,6 +11,8 @@ Meeting 4: February 18 (2025)
 ----------------------------
 :download:`Presentation slides <../resources/planetary-research-#4-feb-18.pdf>`
 
+.. youtube:: OoMK6z4m_pA
+
 
 Meeting 3: January 23 (2025)
 ----------------------------
