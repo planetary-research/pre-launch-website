@@ -1,4 +1,4 @@
-# Open Positions: Associate editors
+# Associate editors
 
 We are seeking approximately 10 associate editors in a broad range of disciplines to aid the editors in various aspects of the peer review process. Associate editor tasks may include contacting reviewers, assessing the reviews, and providing independent assessments of manuscripts. The expected workload of an associate editor is less than one new manuscript per month.
 

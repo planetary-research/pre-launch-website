@@ -1,4 +1,4 @@
-# Open Positions: Media team members
+# Media team members
 
 We are seeking members to participate in the journal’s media team. Activities will include running a separate website as the journal’s blog and managing social media accounts. The journal's blog is expected to publish short, plain-language author-provided summaries of research articles, an image of the week, space art of the week, and other content that would be of interest to the community.
 
