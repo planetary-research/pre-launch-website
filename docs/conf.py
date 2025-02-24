@@ -69,7 +69,7 @@ html_theme = 'furo'  # 'sphinx_book_theme'
 html_theme_options = {
     "announcement": "This is the <b>Planetary Research</b> pre-launch website. The journal is in development and will launch in January 2026.",
     "repository_branch": "master",
-    "repository_url": "https://github.com/planetary-research-journal/pre-launch-website",
+    "repository_url": "https://github.com/planetary-research/pre-launch-website",
     "use_repository_button": True,
     "use_sidenotes": False,
     "use_edit_page_button": False,
