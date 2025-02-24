@@ -32,6 +32,16 @@ forum
 email-list
 meetings
 abstracts.md
+
+```{toctree}
+:hidden:
+:caption: Open Positions
+
+editor-in-chief.md
+editors.md
+associate-editors.md
+media-team.md
+technical-team.md
 ```
 
 # Planetary Research
