@@ -8,13 +8,13 @@ The journal is owned by the Planetary Research Cooperative, which is a non-profi
 
 ## Steering committee members
 
-* Mark A. Wieczorek, senior scientist (CNRS), Institut de physique du globe de Paris - Université Paris Cité - CNRS, France, https//mrak.solarsystem.social
-* Antoine Lucas, research scientist (CNRS), Institut de physique du globe de Paris - Université Paris Cité - CNRS, France, https://spaceavalancher.github.io/
-* Julia Maia, postdoc, German Aerospace Center (DLR), Germany, https://orcid.org/0000-0002-3605-6554
-* Frédéric Schmidt, professor, Université Paris-Saclay, France, https://fredericschmidt.github.io/
-* Lucia Mandon, postdoc (CNES), Institut de Planétologie et d'Astrophysique de Grenoble, Université Grenoble-Alpes, France, https://orcid.org/0000-0002-9310-0742
-* Benoît Seignovert, data scientist (CNRS), Observatoire des Sciences de l'Univers Nantes Atlantique (Osuna), CNRS UAR-3281, Nantes Université, France, https://orcid.org/0000-0001-6533-275X
-* Ingrid J. Daubar, associate professor (Research), Brown University, USA, https://sites.brown.edu/ingriddaubar/
+* Mark A. Wieczorek, senior scientist (CNRS), Institut de physique du globe de Paris - Université Paris Cité - CNRS, France, [mrak.solarsystem.social](https//mrak.solarsystem.social)
+* Antoine Lucas, research scientist (CNRS), Institut de physique du globe de Paris - Université Paris Cité - CNRS, France, [spaceavalancher.github.io](https://spaceavalancher.github.io/)
+* Julia Maia, postdoc, German Aerospace Center (DLR), Germany, [orcid.org/0000-0002-3605-6554](https://orcid.org/0000-0002-3605-6554)
+* Frédéric Schmidt, professor, Université Paris-Saclay, France, [fredericschmidt.github.io](https://fredericschmidt.github.io/)
+* Lucia Mandon, postdoc (CNES), Institut de Planétologie et d'Astrophysique de Grenoble, Université Grenoble-Alpes, France, [orcid.org/0000-0002-9310-0742](https://orcid.org/0000-0002-9310-0742)
+* Benoît Seignovert, data scientist (CNRS), Observatoire des Sciences de l'Univers Nantes Atlantique (Osuna), CNRS UAR-3281, Nantes Université, France, [benoit.seignovert.fr/](https://benoit.seignovert.fr/)
+* Ingrid J. Daubar, associate professor (Research), Brown University, USA, [sites.brown.edu/ingriddaubar/](https://sites.brown.edu/ingriddaubar/)
 
 ## Steering committee roles
 
