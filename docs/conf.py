@@ -79,7 +79,7 @@ html_theme_options = {
     "footer_icons": [
         {
             "name": "GitHub",
-            "url": "https://github.com/planetary-research-journal",
+            "url": "https://github.com/planetary-research/pre-launch-website",
             "html": "",
             "class": "fa-brands fa-solid fa-github fa-lg",
         },
