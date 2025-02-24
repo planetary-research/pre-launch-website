@@ -1,4 +1,4 @@
-# Media team members
+# Technical team members
 
 We are seeking members to participate in the journal’s technical team. Activities will include managing open source software used by the association, such as Nextcloud, Wordpress, Mattermost, and Mastodon servers.
 
