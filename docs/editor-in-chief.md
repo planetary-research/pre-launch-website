@@ -1,3 +1,5 @@
+.. _editor-in-chief:
+
 # Editor-in-Chief
 
 We are seeking a single editor-in-chief who will be responsible for enforcing all editorial policies of the journal, standardizing peer-review practices among the editors, appointing associate editors when needed, and approving special issues. The editor-in-chief is by right a member of the Planetary Research Cooperative steering committee. The editor-in-chief, if desired, may oversee the peer review of manuscripts submitted to the journal.
