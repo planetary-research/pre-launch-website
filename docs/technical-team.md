@@ -1,4 +1,4 @@
-.. _technical-team:
+(technical-team)=
 
 # Technical team
 

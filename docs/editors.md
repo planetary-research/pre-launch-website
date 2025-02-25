@@ -1,4 +1,4 @@
-.. _editors:
+(editors)=
 
 # Editors
 

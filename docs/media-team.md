@@ -1,4 +1,4 @@
-.. _media-team:
+(media-team)=
 
 # Media team
 

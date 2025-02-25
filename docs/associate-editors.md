@@ -1,4 +1,4 @@
-.. _associate-editors:
+(associate-editors)=
 
 # Associate editors
 

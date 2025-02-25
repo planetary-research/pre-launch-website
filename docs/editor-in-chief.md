@@ -1,4 +1,4 @@
-.. _editor-in-chief:
+(editor-in-chief)=
 
 # Editor-in-Chief
 

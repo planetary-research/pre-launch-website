@@ -59,6 +59,6 @@ The journal will operate with transparent governance and will provide opportunit
 
 The journal will be run entirely by volunteers from the planetary science community and everyone is invited to participate in its development and operations. Most of our pre-launch discussions occur in an [online forum](#forum). We hold monthly [online meetings](#meetings) that we advertise both on the forum and through our [email distribution list](#email-list).
 
-We currently have an open call for an [editor-in-chief](#editor-in-chief) [editors](#editors), [associate editors](#associate-editors), and members of the [media team](#media-team) and [technical team](#technical-team).
+We currently have an open call for an [editor-in-chief](#editor-in-chief), [editors](#editors), [associate editors](#associate-editors), and members of the [media team](#media-team) and [technical team](#technical-team).
 
 To see who is involved in the initiative, check out our [abstracts](#abstracts)!
