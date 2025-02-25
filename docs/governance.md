@@ -8,13 +8,13 @@ The journal is owned by the Planetary Research Cooperative, which is a non-profi
 
 ## Steering committee members
 
-* Mark A. Wieczorek, senior scientist (CNRS), Institut de physique du globe de Paris - Université Paris Cité - CNRS, France, [website](https//mrak.solarsystem.social) [orcid](https://orcid.org/0000-0001-7007-4222)
-* Antoine Lucas, research scientist (CNRS), Institut de physique du globe de Paris - Université Paris Cité - CNRS, France, [website](https://spaceavalancher.github.io/) [orcid](https://orcid.org/0000-0003-2192-4416)
+* Mark A. Wieczorek, senior scientist (CNRS), Institut de physique du globe de Paris - Université Paris Cité - CNRS, France, [website](https//mrak.solarsystem.social) | [orcid](https://orcid.org/0000-0001-7007-4222)
+* Antoine Lucas, research scientist (CNRS), Institut de physique du globe de Paris - Université Paris Cité - CNRS, France, [website](https://spaceavalancher.github.io/) | [orcid](https://orcid.org/0000-0003-2192-4416)
 * Julia Maia, postdoc, German Aerospace Center (DLR), Germany, [orcid](https://orcid.org/0000-0002-3605-6554)
-* Frédéric Schmidt, professor, Université Paris-Saclay, France, [website](https://fredericschmidt.github.io/) [orcid](http://orcid.org/0000-0002-2857-6621)
+* Frédéric Schmidt, professor, Université Paris-Saclay, France, [website](https://fredericschmidt.github.io/) | [orcid](http://orcid.org/0000-0002-2857-6621)
 * Lucia Mandon, postdoc (CNES), Institut de Planétologie et d'Astrophysique de Grenoble, Université Grenoble-Alpes, France, [orcid](https://orcid.org/0000-0002-9310-0742)
-* Benoît Seignovert, data scientist (CNRS), Observatoire des Sciences de l'Univers Nantes Atlantique (Osuna), CNRS UAR-3281, Nantes Université, France, [website](https://benoit.seignovert.fr/) [orcid](https://orcid.org/0000-0001-6533-275X)
-* Ingrid J. Daubar, associate professor (Research), Brown University, USA, [website](https://sites.brown.edu/ingriddaubar/) [orcid](https://orcid.org/0000-0001-9790-2972)
+* Benoît Seignovert, data scientist (CNRS), Observatoire des Sciences de l'Univers Nantes Atlantique (Osuna), CNRS UAR-3281, Nantes Université, France, [website](https://benoit.seignovert.fr/) | [orcid](https://orcid.org/0000-0001-6533-275X)
+* Ingrid J. Daubar, associate professor (Research), Brown University, USA, [website](https://sites.brown.edu/ingriddaubar/) | [orcid](https://orcid.org/0000-0001-9790-2972)
 
 ## Steering committee roles
 
