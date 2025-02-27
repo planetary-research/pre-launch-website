@@ -6,4 +6,4 @@ We are seeking a single editor-in-chief who will be responsible for enforcing al
 
 Interested candidates should provide a CV, a publication list, and a short letter motivating their interest in the position to the [chair of the search committee](mailto:mark.wieczorek@cnrs.fr) before July 1, 2025.
 
-:download:`Editor search flyer (pdf) <../resources/Planetary-Research-editor-search-flyer.pdf>`
+{download}`Editor search flyer (pdf) <../resources/Planetary-Research-editor-search-flyer.pdf>`
