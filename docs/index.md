@@ -22,7 +22,7 @@ peer-review.md
 :caption: Policies
 
 authorship.md
-author-name-changes.md
+name-changes.md
 special-issues.md
 ```
 
