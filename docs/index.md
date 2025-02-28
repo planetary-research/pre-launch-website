@@ -21,6 +21,8 @@ peer-review.md
 :hidden:
 :caption: Policies
 
+authorship.md
+author-name-changes.md
 special-issues.md
 ```
 
