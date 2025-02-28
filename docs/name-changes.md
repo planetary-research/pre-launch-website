@@ -2,7 +2,7 @@
 This is a draft of the text that will appear on the journal website. To propose and discuss changes, please join the [online forum](#forum).
 :::
 
-# Author name changes
+# Name changes
 
 Planetary Research recognizes that an author may change their name for a variety of reasons. The journal does not ask for any justification or proof of the name change, and the journal asks only that the name change be consistent with the name on the author's [ORCID](https://orcid.org/) profile. Name change requests require the explicit consent of the author whose name is being changed.
 
