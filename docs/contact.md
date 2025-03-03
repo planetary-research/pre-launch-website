@@ -4,17 +4,17 @@ This is a draft of the text that will appear on the journal website. To propose 
 
 # Contact
 
-## Editorial enquiries
+### Editorial enquiries
 [editor-in-chief@planetary-research.org](mailto:editor-in-chief@planetary-research.org)
 
-## Media and press inquiries
+### Media and press inquiries
 [media@planetary-research.org](mailto:media@planetary-research.org)
 
-## Technical support
+### Technical support
 [tech@planetary-research.org](mailto:tech@planetary-research.org)
 
-## Data protection officer
+### Data protection officer
 [dpo@planetary-research.org](mailto:dpo@planetary-research.org)
 
-## General inquiries
+### General inquiries
 [info@planetary-research.org](mailto:info@planetary-research.org)
