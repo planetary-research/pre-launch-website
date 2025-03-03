@@ -2,6 +2,8 @@
 This is a draft of the text that will appear on the journal website. To propose and discuss changes, please join the [online forum](#forum).
 :::
 
+# Contact
+
 ## Editorial enquiries
 [editor-in-chief@planetary-research.org](mailto:editor-in-chief@planetary-research.org)
 
