@@ -7,6 +7,8 @@ scope
 principles
 governance.md
 editorial-board
+privacy-statement.md
+contact.md
 ```
 
 ```{toctree}
