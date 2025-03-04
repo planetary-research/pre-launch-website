@@ -4,7 +4,7 @@ This is a draft of the text that will appear on the journal website. To propose 
 
 # Contact
 
-### Editorial enquiries
+### Editorial inquiries
 [editor-in-chief@planetary-research.org](mailto:editor-in-chief@planetary-research.org)
 
 ### Media and press inquiries
