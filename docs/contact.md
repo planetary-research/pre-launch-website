@@ -13,7 +13,7 @@ This is a draft of the text that will appear on the journal website. To propose 
 ### Technical support
 [tech@planetary-research.org](mailto:tech@planetary-research.org)
 
-### Data protection officer
+### Data protection
 [dpo@planetary-research.org](mailto:dpo@planetary-research.org)
 
 ### General inquiries
