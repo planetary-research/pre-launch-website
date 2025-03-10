@@ -1,6 +1,12 @@
 (abstracts)=
 
-# Abstracts & posters
+# Abstracts, posters & talks
+
+* * *
+
+**Europlanet Society Webinar: Open Planetary Science**
+
+.. youtube:: A1PXF9wRgso
 
 * * *
 
@@ -8,6 +14,7 @@
 
 Planetary Research --- A diamond open access journal for planetary science \
 {download}`download abstract <../resources/LPSC-2025-Planetary-Research-abstract.pdf>`
+{download}`download poster <../resources/PR-LPSC-Poster.pdf>`
 
 ```{collapse} <em>click for authors</em>
 
