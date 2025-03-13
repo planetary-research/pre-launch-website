@@ -26,6 +26,7 @@ peer-review.md
 authorship.md
 name-changes.md
 special-issues.md
+preprints-prior-publication.md
 ```
 
 ```{toctree}

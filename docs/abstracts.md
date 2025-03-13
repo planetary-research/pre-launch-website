@@ -8,6 +8,7 @@
 
 ```{youtube} A1PXF9wRgso
 ```
+{download}`download slides <../resources/Planetary-Research-overview.pdf>`
 
 * * *
 
