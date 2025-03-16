@@ -15,7 +15,7 @@ contact.md
 :hidden:
 :caption: For authors
 
-article-types
+article-types.md
 peer-review.md
 ```
 
