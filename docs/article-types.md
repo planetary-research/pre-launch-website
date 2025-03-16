@@ -4,7 +4,7 @@ This is a draft of the text that will appear on the journal website. To propose 
 
 # Article types
 
-*Planetary Research* publishes several different article types that differ in their scope, length, and review process. Most work is published as long-format research articles and short letters, but other article types are provided for the specific cases of reviews, numerical codes, datasets, planetary missions and instrumentation, introductions to special issues, commentaries and editorials. Manuscripts that are closely related to articles that were previously published in the journal, such as corrections, comments and replies, are described in the relevant journal policies.
+*Planetary Research* publishes several different article types that differ in their scope, length, and review process. Most work is published as long-format research articles and short letters, but other article types are provided for the specific cases of reviews, numerical codes, datasets, planetary missions and instrumentation, introductions to special issues, commentaries and editorials. As described in the relevant journal policies, the journal will also publish corrections to previously published articles, as well as comments and replies.
 
 ### Research article
 
