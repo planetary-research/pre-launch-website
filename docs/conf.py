@@ -18,7 +18,7 @@ import datetime
 # -- Project information -----------------------------------------------------
 
 project = 'Planetary Research'
-copyright = str(datetime.date.today().year)
+copyright = str(datetime.date.today().year) + ' | CC BY 4.0'
 author = 'Planetary Research'
 
 # The full version, including alpha/beta/rc tags
