@@ -24,6 +24,7 @@ peer-review.md
 :caption: Policies
 
 authorship.md
+plagiarism.md
 name-changes.md
 special-issues.md
 preprints-prior-publication.md

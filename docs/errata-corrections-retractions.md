@@ -1,3 +1,5 @@
+(corrections)=
+
 :::{note}
 This is a draft of the text that will appear on the journal website. To propose and discuss changes, please join the [online forum](#forum).
 :::
@@ -18,6 +20,6 @@ When a significant error is discovered that affects certain aspects of an articl
 
 ### Retractions
 
-When irreparable flaws are discovered in an article that call into question the integrity of the work as a whole, when the article was found to have violated any of the journal's policies, or when there is evidence for scientific misconduct, the article may be retracted. As a general rule, the authors should opt to write a correction instead of a retraction whenever it is possible. If the retraction request is initiated by the authors, all authors must agree to the retraction. If the retraction request is not unanimous among the authors, the editor-in-chief will decide if the retraction request is warranted. If the editorial board is made aware that a previously published article might violate journal policies, the authors of the article will be contacted and asked to respond. Failure to respond could result in the article being retracted. 
+When irreparable flaws are discovered in an article that call into question the integrity of the work as a whole, when the article was found to have violated any of the journal's policies, or when there is evidence for scientific misconduct, the article may be retracted. As a general rule, the authors should opt to write a correction instead of a retraction whenever it is possible. If the retraction request is initiated by the authors, all authors must agree to the retraction. If the retraction request is not unanimous among the authors, the editor-in-chief will decide if the retraction request is warranted. If the editorial board is made aware that a previously published article might violate journal policies, the authors of the article will be contacted and asked to respond. Failure to respond could result in the article being retracted.
 
 When an article is retracted, a separate notice will be published either by the authors or the publisher that states the reason for the retraction. Both the online and PDF versions of the article will be replaced with a copy of the statement in the retraction notice. Though the content of the article will be removed from the journal's website, the journal will retain a copy of the original article in their internal records. If the authors can not be contacted, or if they are known to be deceased, the editors may decide to instead publish an editorial expression of concern.
