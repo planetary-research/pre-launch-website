@@ -6,6 +6,8 @@
 
 **Europlanet Society Webinar: Open Planetary Science**
 
+March 10, 2025
+
 ```{youtube} A1PXF9wRgso
 ```
 {download}`download slides <../resources/Planetary-Research-overview.pdf>`
