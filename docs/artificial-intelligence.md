@@ -14,7 +14,7 @@ The following sections provide guidelines for common AI uses, which include lang
 
 Artificial intelligence tools can be useful for helping improve the presentation of author-written text in a manuscript. Such tools are ubiquitous in word processing platforms and softwares, and range from simple spelling and grammar checkers, the translation of text between languages, to more advanced tools that make significant changes to the tone and form of the original text. It is not necessary for the authors to disclose the use of language improvement tools, and ultimately, the authors are responsible for every word that appears in a manuscript.
 
-Though it is acceptable to use AI to improve text that was written by an author of a manuscript, the journal does not allow using AI to write or to author text. By asking an AI to provide text on a topic, one delegates the act of authorship to the AI, which is against the journal's [Authorship](@authorship) policies.
+Though it is acceptable to use AI to improve text that was written by an author of a manuscript, the journal does not allow using AI to write or to author text. By asking an AI to provide text on a topic, one delegates the act of authorship to the AI, which is against the journal's [Authorship](#authorship) policies.
 
 ## Generative imagery
 
