@@ -1,8 +1,8 @@
-.. note::
-    This is a draft of the text that will appear on the journal website. To propose and discuss changes, please join the  :ref:`online forum <forum>`.
+:::{note}
+This is a draft of the text that will appear on the journal website. To propose and discuss changes, please join the [online forum](#forum).
+:::
 
-Journal principles
-==================
+# Journal principles
 
 *Planetary Research* is a not-for-profit journal that was created by members of the planetary science community through an open, inclusive, and transparent process. We are independent of any publisher or professional society, and we aim only to represent the authors who publish with us. As a community-led project, we adhere to a common set of principles and commit to achieving the following objectives.
 

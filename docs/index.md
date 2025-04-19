@@ -3,10 +3,9 @@
 :caption: About
 
 about.md
-scope
-principles
-governance.md
-editorial-board
+scope.md
+principles,md
+editorial-board.md
 privacy-statement.md
 contact.md
 ```
