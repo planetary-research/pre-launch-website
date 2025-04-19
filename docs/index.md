@@ -4,7 +4,7 @@
 
 about.md
 scope.md
-principles,md
+principles.md
 editorial-board.md
 privacy-statement.md
 contact.md
