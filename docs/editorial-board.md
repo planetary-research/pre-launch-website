@@ -7,6 +7,8 @@ This is a draft of the text that will appear on the journal website. To propose 
 
 The editorial board is responsible for coordinating the peer review of manuscripts that are submitted to the journal. Each submitted manuscript is assigned to a single editor who is solely responsible for deciding whether the manuscript should be published or not. Associate editors may be called upon to assist in various aspects of the peer review process. Complaints will be moderated by the editor-in-chief.
 
+## Editorial board members
+
 **Editor in chief**
 
 * photo, name, position, affiliation, personal web page, Orcid ID, Expertise list
