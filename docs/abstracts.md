@@ -4,7 +4,7 @@
 
 * * *
 
-**Europlanet Society Webinar: Open Planetary Science**
+**Europlanet Society Webinar: Open Planetary Science** (March 4, 2025)
 
 ```{youtube} A1PXF9wRgso
 ```

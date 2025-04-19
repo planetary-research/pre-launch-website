@@ -28,6 +28,7 @@ name-changes.md
 special-issues.md
 preprints-prior-publication.md
 errata-corrections-retractions.md
+artificial-intelligence.md
 ```
 
 ```{toctree}
