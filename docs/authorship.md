@@ -15,7 +15,7 @@ Each manuscript must designate a corresponding author who has additional respons
 
 ## Contributor Role Taxonomy (CRediT)
 
-Planetary Research uses the [Contributor Role Taxonomy (CRediT)](https://credit.niso.org/) to identify each author's contribution to a manuscript. These roles are summarized in the following table.
+Each submitted manuscript must include an "Author contribution statement" that details each of the author's contributions to the work. The [Contributor Role Taxonomy (CRediT)](https://credit.niso.org/) is used for identifying and specifying author contributions, and these roles are summarized in the following table.
 
 | Role | Description |  
 | --- | --- |
