@@ -26,7 +26,7 @@ authorship.md
 plagiarism.md
 name-changes.md
 special-issues.md
-prior-publication-self-indexing.md
+prior-publication-self-archiving.md
 errata-corrections-retractions.md
 artificial-intelligence.md
 ```
