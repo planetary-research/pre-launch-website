@@ -7,6 +7,7 @@ scope.md
 principles.md
 editorial-board.md
 privacy-statement.md
+faq.md
 contact.md
 ```
 
