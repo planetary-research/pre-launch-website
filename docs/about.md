@@ -12,6 +12,10 @@ The journal is owned by the [Planetary Research Cooperative](https://coop.planet
 
 The journal is published in cooperation with, and is hosted by, the Open Publishing Services ([OPUS](https://opus.u-paris.fr/)) at the Université Paris Cité (OPUS, Université Paris Cité, 85 boulevard Saint-Germain, 75006 Paris).
 
+The journal publishes 1 volume per year. Each volume is composed of 12 monthly issues and any special issues that were published during the year.
+
+e-ISSN: 0000-0000
+
 ## Indexing & Archiving
 
 The journal content is indexed by
@@ -21,12 +25,15 @@ The journal content is indexed by
 * [OpenAire Explore](https://explore.openaire.eu/)
 * [OpenAlex](https://openalex.org/)
 
-Indexing in NASA ADS, the Directory of Open Access Journals (DOAJ) and Web of Science is pending.
+Indexing in NASA ADS, the Directory of Open Access Journals (DOAJ), Web of Science, and Scopus is pending.
 
 The journal is archived by the [PKP Preservation Network](https://pkp.sfu.ca/pkp-pn/).
 
-## Publishing frequency
+## Financial support
 
-The journal publishes 1 volume per year. Each volume is composed of monthly issues and any special issues that were published during the year.
+The journal is partially financed by grants from the following organizations:
+* [Pole Spatiale Université Paris Cité](https://u-paris.fr/pole-spatial-universite-paris-cite/)
+* [Centre national de la recherche scientifique (CNRS)](https://www.cnrs.fr/)
 
-e-ISSN: 0000-0000
+We also acknowledge in-kind IT support from the following organizations:
+* [Institut de Physique du Globe de Paris (IPGP)](https://ipgp.fr)
