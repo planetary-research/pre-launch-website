@@ -15,7 +15,7 @@ The journal is owned by the [Planetary Research Cooperative](https://coop.planet
 
 ## How much does it cost to run the journal?
 
-Planetary Research is run as a service for the planetary science community, and by design, we do not make a profit. Costs are kept to a minimum by having a low bureaucratic overhead, by using free open-source software solutions for managing journal activities, and by relying on a volunteer editorial staff. The major cost of the journal is related to copyediting and production services, which include the conversion of author formatted files into final publication HTML and PDF formats. These services cost about 100 € per article, which is more than an order of magnitude less than what any other planetary science journal charges. The annual operating costs of the journal are expected be about 10,000 € during the journal's first year and to later reach about 30,000 € per year.
+Planetary Research is run as a service for the planetary science community, and by design we do not make a profit. Costs are kept to a minimum by having a low bureaucratic overhead, by using free open-source software solutions for managing journal activities, and by relying on a volunteer editorial staff. The major cost of the journal is related to copyediting and production services that are outsourced, which include the conversion of author formatted files into final publication HTML and PDF formats. These services cost about 100 € per article, which is more than an order of magnitude less than what any other planetary science journal charges. The annual operating costs of the journal are expected be about 10,000 € during the journal's first year and to later reach about 30,000 € per year.
 
 ## Who pays the journal's costs?
 
@@ -23,7 +23,7 @@ At the present time, Planetary Research is funded through a combination of gover
 
 ## What is the long-term strategy for funding the journal?
 
-The Planetary Research Cooperative intends to create a consortium of national space agencies and planetary science funding organisms that will commit to assuring the operational costs of the journal. If 10 partners join such a consortium, it would only be necessary for each to contribute about 3000 € per year. To guard against unforeseen rises in publication costs or a drop in institutional funding, the journal aims to build a cash reserve that is the equivalent operational costs for two years.
+The Planetary Research Cooperative intends to create a consortium of national space agencies and planetary science funding organisms that will commit to assuring the operational costs of the journal. If 10 partners join such a consortium, it would only be necessary for each to contribute about 3000 € per year. To guard against unforeseen rises in publication costs or a drop in institutional funding, the journal aims to build a cash reserve that is the equivalent of operational costs for two years.
 
 ## Will the journal be indexed by Web of Science and Scopus?
 
