@@ -31,4 +31,4 @@ The journal will apply to be indexed in Clarivate's Web of Science Core Collecti
 
 ## Will the journal have an impact factor?
 
-Journal Impact Factor's are published exclusively by Clarivate, and the impact factor is computed automatically when two full years of citation data exist. As outlined by the [San Francisco Declaration on Research Assessment (DORA)](https://sfdora.org/read/) and the [Coalition for Advancing Research Assessment (CoARA)](https://coara.eu/), a journal's impact factor should not be used as a metric for funding, appointment, or promotion considerations.
+Journal Impact Factors are published exclusively by Clarivate, and the impact factor is computed automatically when two full years of citation data exist. As outlined by the [San Francisco Declaration on Research Assessment (DORA)](https://sfdora.org/read/) and the [Coalition for Advancing Research Assessment (CoARA)](https://coara.eu/), a journal's impact factor should not be used as a metric for funding, appointment, or promotion considerations.
