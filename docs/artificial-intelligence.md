@@ -13,7 +13,7 @@ The following sections provide guidelines for common AI uses, which include lang
 
 ## Language improvement
 
-Artificial intelligence tools can be useful for helping improve the presentation of author-written text in a manuscript. Such tools are ubiquitous in word processing platforms and softwares, and range from simple spelling and grammar checkers, to the translation of text between languages, to more advanced tools that make significant changes to the tone and form of the original text. It is not necessary for the authors to disclose the use of AI language improvement tools, and the authors are ultimately responsible for every word that appears in a manuscript. Given the ethical risks, however, the journal strongly advises against using AI for anything other than language improvement.
+Artificial intelligence tools can be useful for helping improve the presentation of author-written text in a manuscript. Such tools are ubiquitous in word processing platforms and softwares, and range from simple spelling and grammar checkers, to the translation of text between languages, to more advanced tools that make significant changes to the tone and form of the original text. It is not necessary for the authors to disclose the use of AI language improvement tools, and the authors are ultimately responsible for every word that appears in a manuscript. Given the ethical risks, however, the journal strongly advises against using AI for any writing activities besides language improvement.
 
 ## Generative imagery
 
