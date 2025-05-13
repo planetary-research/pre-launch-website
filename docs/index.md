@@ -24,12 +24,13 @@ peer-review.md
 :caption: Policies
 
 authorship.md
-plagiarism.md
 name-changes.md
-special-issues.md
+plagiarism.md
 prior-publication-self-archiving.md
+open-science.md
 errata-corrections-retractions.md
 artificial-intelligence.md
+special-issues.md
 ```
 
 ```{toctree}
