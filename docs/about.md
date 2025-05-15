@@ -12,17 +12,17 @@ The journal is owned by the [Planetary Research Cooperative](https://coop.planet
 
 The journal publishes 1 volume per year. Each volume is composed of 12 monthly issues and any special issues that were published during the year.
 
-Planetary Research
-GEOPS – Bâtiment 504
-Rue du Belvédère
-Université Paris-Saclay
-91405 Orsay
+Planetary Research </br>
+GEOPS – Bâtiment 504 </br>
+Rue du Belvédère </br>
+Université Paris-Saclay </br>
+91405 Orsay </br>
 France
 
-OPUS
-Université Paris Cité
-85 boulevard Saint-Germain
-75006 Paris
+OPUS </br>
+Université Paris Cité </br>
+85 boulevard Saint-Germain </br>
+75006 Paris </br>
 France
 
 e-ISSN: 0000-0000
