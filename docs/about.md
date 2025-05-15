@@ -8,11 +8,22 @@ This is a draft of the text that will appear on the journal website. To propose 
 
 ## Publisher
 
-The journal is owned by the [Planetary Research Cooperative](https://coop.planetary-research.org), which is a non-profit association registered in France whose mission is to support the dissemination of scientific research in the field of planetary science. The board of directors of the association is responsible for overseeing all non-editorial functions of the journal, and is responsible for appointing the editor-in-chief and editors of the journal. The editorial board retains complete editorial independence from the association's board of directors.
-
-The journal is published in cooperation with, and is hosted by, the Open Publishing Services ([OPUS](https://opus.u-paris.fr/)) at the Université Paris Cité (OPUS, Université Paris Cité, 85 boulevard Saint-Germain, 75006 Paris).
+The journal is owned by the [Planetary Research Cooperative](https://coop.planetary-research.org), which is a non-profit association registered in France whose mission is to support the dissemination of scientific research in the field of planetary science. The board of directors of the association is responsible for overseeing all non-editorial functions of the journal, and is responsible for appointing the editor-in-chief and editors of the journal. The editorial board retains complete editorial independence from the association's board of directors. The journal is published in cooperation with, and is hosted by, the Open Publishing Services ([OPUS](https://opus.u-paris.fr/)) at the Université Paris Cité.
 
 The journal publishes 1 volume per year. Each volume is composed of 12 monthly issues and any special issues that were published during the year.
+
+Planetary Research
+GEOPS – Bâtiment 504
+Rue du Belvédère
+Université Paris-Saclay
+91405 Orsay
+France
+
+OPUS
+Université Paris Cité
+85 boulevard Saint-Germain
+75006 Paris
+France
 
 e-ISSN: 0000-0000
 
