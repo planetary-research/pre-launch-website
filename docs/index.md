@@ -37,8 +37,8 @@ special-issues.md
 :hidden:
 :caption: Resources
 
-forum
-email-list
+forum.md
+email-list.md
 meetings
 abstracts.md
 ```
