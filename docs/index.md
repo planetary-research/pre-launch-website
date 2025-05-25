@@ -62,7 +62,7 @@ technical-team.md
 
 Our initiative builds on the experience of several diamond open access journals that have appeared in the Earth sciences since 2018. These journals include [Volcanica](http://www.jvolcanica.org/ojs/index.php/volcanica), [Seismica](https://seismica.library.mcgill.ca/), [Tektonika](https://tektonika.online/index.php/home), [Geomorphica](https://journals.psu.edu/geomorphica/), [Sedimentologika](https://oap.unige.ch/journals/sdk/index), [Advances in Geochemistry and Cosmochemistry](https://journals.uu.se/AGC/index), and soon [Geodynamica](https://www.geodynamica.org/). We will be the only diamond open access journal devoted to the interdisciplinary field of planetary science when we launch in January 2026.
 
-The journal will operate with transparent governance and will provide opportunities for researchers at all career levels to participate in its operations. We acknowledge the critical need to make the results of scientific research accessible to society at large, and the journal will promote the work it publishes to the scientific community and the general public alike.
+The journal will be run by the [Planetary Research Cooperative](https://coop.planetary-research.org) and will operate with a transparent governance. We aim to provide opportunities for researchers at all career levels to participate in both the association and the journal. We acknowledge the critical need to make the results of scientific research accessible to society at large, and the journal will promote the work it publishes to the scientific community and the general public alike.
 
 ## How to participate
 
