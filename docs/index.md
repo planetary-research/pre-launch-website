@@ -24,6 +24,7 @@ peer-review.md
 :caption: Policies
 
 authorship.md
+code-of-conduct.md
 name-changes.md
 plagiarism.md
 prior-publication-self-archiving.md
