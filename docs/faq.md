@@ -32,3 +32,7 @@ The journal will apply to be indexed in Clarivate's Web of Science Core Collecti
 ## Will the journal have an impact factor?
 
 Journal Impact Factors are published exclusively by Clarivate, and the impact factor is computed automatically when two full years of citation data exist. As outlined by the [San Francisco Declaration on Research Assessment (DORA)](https://sfdora.org/read/) and the [Coalition for Advancing Research Assessment (CoARA)](https://coara.eu/), a journal's impact factor should not be used as a metric for funding, appointment, or promotion considerations.
+
+## Will the journal be permanently archived?
+
+Yes. Permanent archiving of the journal content is assured through participation in the [PKP Preservation Network](https://pkp.sfu.ca/pkp-pn/). Planetary Research uses the [OJS](https://pkp.sfu.ca/software/ojs/) journal management software and all newly published content is uploaded to the network by use of a plugin. If the journal were ever to go offline, the PKP staff would import the archived material into a separate OJS instance hosted by a PKP member institution.
