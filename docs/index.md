@@ -55,6 +55,10 @@ media-team.md
 technical-team.md
 ```
 
+:::{important}
+The production version of the journal is now [online](https://ojs.app.u-paris.fr/index.php/planetary-research/index). We will redirect this site to the production version after a few bugs are worked out.
+:::
+
 # Planetary Research
 
 **A diamond open access journal for planetary science**
